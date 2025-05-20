@@ -420,4 +420,4 @@ button:disabled {
 .country-list-step-phone {
   max-height: calc(100dvh - 175px) !important;
   overflow-y: auto;
-}
+} 
