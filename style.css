@@ -243,6 +243,9 @@ button:disabled {
   padding: 8px 16px;
   cursor: pointer;
   user-select: none;
+  width: 135px;
+  min-width: 135px;
+  max-width: 135px;
 }
 
 .dial-code-select img {
